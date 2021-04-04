@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(name='python_challenge',
-      version='0.1',
+      version='0.2',
       description='Python module to find value in a binary tree',
       url='http://github.com/damolaajayi/python_challenge',
       author='Adedamola Ajayi',
